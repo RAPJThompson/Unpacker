@@ -1,7 +1,7 @@
 import sys
 import os
 
-#REQUIRES: the highest directory to be dealt with and moved to, and the current directory to be worked on
+#REQUIRES: the highest directory to be dealt with and moved to
 #PURPOSE: This function will recursively move through all of the files and folders in the current directory (Depth First) and 
             #move all the files to the top directory and delete all the empty folders left behind
 def moveUp(currentDir):
