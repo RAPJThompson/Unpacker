@@ -14,6 +14,6 @@ Command Line:
 
 Non-Command Line:
 	
-  C++) Running as a simple exe, ie. by double-clicking, will run the program in the folder it is currently in.
+  C++) [No longer functioning do to changes in Windows 10]Running as a simple exe, ie. by double-clicking, will run the program in the folder it is currently in.
   
   Python) Use Command Line
